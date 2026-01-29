@@ -668,6 +668,10 @@ if you don’t see your service please refresh the page
   <img src="./assets/image15.png" alt="Logo" width="100%" height="100%">
 </div>
 
+<div align="center">
+  <img src="./assets/image16.png" alt="Logo" width="100%" height="100%">
+</div>
+
 # Conclusion
 
 This project demonstrates a complete **Istio service mesh** running on a local Kubernetes cluster, including:
