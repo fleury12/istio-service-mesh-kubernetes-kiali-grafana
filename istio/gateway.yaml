@@ -5,7 +5,7 @@ metadata:
   namespace: ecommerce
 spec:
   selector:
-    istio: ingress
+    istio: ingressgateway # use Istio's default ingress gateway
   servers:
   - port:
       number: 80
@@ -13,5 +13,4 @@ spec:
       protocol: HTTP
     hosts:
     - "*"
-
 # The Gateway creates the entry point for external traffic
