@@ -4,11 +4,10 @@
 
 To follow along with this tutorial, you'll need:
 
-- kubectl installed and configured ([https://youtu.be/IBkU4dghY0Y](https://youtu.be/IBkU4dghY0Y))
-- Helm installed: ([https://rslim087a.github.io/rayanslim/lesson.html?course=prometheus-grafana-monitoring-course&lesson=helm-installation](https://rslim087a.github.io/rayanslim/lesson.html?course=prometheus-grafana-monitoring-course&lesson=helm-installation))
+- kubectl installed and configured : https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+- Helm installed: https://helm.sh/fr/docs/intro/install
 
-
-Service mesh allow to monitor comunication between microservices. 
+Service mesh allows to monitor comunication between microservices. 
 
 This project demonstrates how to deploy a complete **service mesh** using **Istio** on a local **Kind Kubernetes cluster**.
 
